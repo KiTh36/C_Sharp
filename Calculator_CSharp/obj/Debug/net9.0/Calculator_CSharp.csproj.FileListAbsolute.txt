@@ -1,0 +1,14 @@
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/bin/Debug/net9.0/Calculator_CSharp
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/bin/Debug/net9.0/Calculator_CSharp.deps.json
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/bin/Debug/net9.0/Calculator_CSharp.runtimeconfig.json
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/bin/Debug/net9.0/Calculator_CSharp.dll
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/bin/Debug/net9.0/Calculator_CSharp.pdb
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/Calculator_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/Calculator_CSharp.AssemblyInfoInputs.cache
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/Calculator_CSharp.AssemblyInfo.cs
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/Calculator_CSharp.csproj.CoreCompileInputs.cache
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/Calculator_CSharp.dll
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/refint/Calculator_CSharp.dll
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/Calculator_CSharp.pdb
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/Calculator_CSharp.genruntimeconfig.cache
+/Users/natalitsysaruk/RiderProjects/Calculator_CSharp/Calculator_CSharp/obj/Debug/net9.0/ref/Calculator_CSharp.dll
