@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 public class Program
 {
@@ -44,6 +45,10 @@ public class Program
             }
         }
 
+        //foreach (string color in colorAddition){
+        //if(color == "White") {Console.WriteLine($"Found '{color}'. Adding 'Green' to the ORIGINAL list.");
+        // myColorList.Add("Green"); }}
+
         myColorList.AddRange(colorsToAdd);
         Console.WriteLine("Final list content:");
         foreach (string color in myColorList)
@@ -51,4 +56,5 @@ public class Program
             Console.WriteLine(color);
         }
     }
+
 }
