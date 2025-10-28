@@ -14,14 +14,13 @@ public class Program
             "White"
         };
 
-        // First foreach loop
+        // Foreach loop
         foreach (var item in myColorList)
         {
             Console.WriteLine(item);
         }
         Console.WriteLine(new string('-', 30));
 
-        // Manual enumerator
         using (IEnumerator<string> enumerator = myColorList.GetEnumerator())
         {
             while (enumerator.MoveNext())
@@ -61,3 +60,4 @@ public class Program
         Console.WriteLine(new string('-', 30));
     }
 }
+
