@@ -1,0 +1,14 @@
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/bin/Debug/net9.0/TicTacToe_Homework1
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/bin/Debug/net9.0/TicTacToe_Homework1.deps.json
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/bin/Debug/net9.0/TicTacToe_Homework1.runtimeconfig.json
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/bin/Debug/net9.0/TicTacToe_Homework1.dll
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/bin/Debug/net9.0/TicTacToe_Homework1.pdb
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/TicTacToe_Homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/TicTacToe_Homework1.AssemblyInfoInputs.cache
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/TicTacToe_Homework1.AssemblyInfo.cs
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/TicTacToe_Homework1.csproj.CoreCompileInputs.cache
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/TicTacToe_Homework1.dll
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/refint/TicTacToe_Homework1.dll
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/TicTacToe_Homework1.pdb
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/TicTacToe_Homework1.genruntimeconfig.cache
+/Users/natalitsysaruk/RiderProjects/TicTacToe_Homework1/TicTacToe_Homework1/obj/Debug/net9.0/ref/TicTacToe_Homework1.dll
