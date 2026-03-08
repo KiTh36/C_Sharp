@@ -1,0 +1,17 @@
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/English_Game
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/English_Game.deps.json
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/English_Game.runtimeconfig.json
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/English_Game.dll
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/English_Game.pdb
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/English_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/English_Game.AssemblyInfoInputs.cache
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/English_Game.AssemblyInfo.cs
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/English_Game.csproj.CoreCompileInputs.cache
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/English_Game.dll
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/refint/English_Game.dll
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/English_Game.pdb
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/English_Game.genruntimeconfig.cache
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/obj/Debug/net9.0/ref/English_Game.dll
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/EN_words.txt
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/UA_words.txt
+/Users/natalitsysaruk/RiderProjects/English_Game/English_Game/bin/Debug/net9.0/DE_words.txt
